@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aralidk&theme=tokyonight" alt="mystreak"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aralidk&theme=tokyonight" alt="mystreak"/>
 
 <br>
 <br>
