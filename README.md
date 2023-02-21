@@ -10,9 +10,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aralidk&theme=tokyonight" alt="mystreak"/>
 
 <br>
-<br>
-<br>
-<br>
 
 ![Snake animation](https://github.com/aralidk/aralidk/blob/output/github-contribution-grid-snake.svg)
 
