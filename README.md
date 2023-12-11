@@ -11,9 +11,6 @@
 <br>
 <br>
 
-<h3 align="left">Connect with me:</h3>
-
-<br>
 
 ![Snake animation](https://github.com/aralidk/aralidk/blob/output/github-contribution-grid-snake.svg)
 
